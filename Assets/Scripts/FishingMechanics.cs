@@ -35,6 +35,8 @@ public class FishingMechanics : MonoBehaviour
         movingIndicator.gameObject.SetActive(false);
         isActive = false;
 
+        startButton.gameObject.SetActive(true); // Reactivate start button
+
         // Initial green zone position
         RandomizeGreenZonePosition();
     }
@@ -106,6 +108,7 @@ public class FishingMechanics : MonoBehaviour
             {
                 Debug.Log("Game Completed!");
                 gameContainer.SetActive(false);
+                startButton.gameObject.SetActive(true); // Show start button again
                 successCount = 0;
                 return;
             }
