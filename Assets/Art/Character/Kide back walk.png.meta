@@ -1,0 +1,743 @@
+fileFormatVersion: 2
+guid: 79e8612da1dfa264f93d771915e7b954
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3821638020056776937
+    second: Kide back walk_0
+  - first:
+      213: 455501601871533691
+    second: Kide back walk_1
+  - first:
+      213: -5274434018201144610
+    second: Kide back walk_2
+  - first:
+      213: 3656639561650067657
+    second: Kide back walk_3
+  - first:
+      213: -3242040253007142690
+    second: Kide back walk_4
+  - first:
+      213: 4239837913944654969
+    second: Kide back walk_5
+  - first:
+      213: 7123838774141429277
+    second: Kide back walk_6
+  - first:
+      213: 7293760270821530326
+    second: Kide back walk_7
+  - first:
+      213: -2888214910815903147
+    second: Kide back walk_8
+  - first:
+      213: 6531813015794884230
+    second: Kide back walk_9
+  - first:
+      213: 3057493006748606962
+    second: Kide back walk_10
+  - first:
+      213: 1839063761627491946
+    second: Kide back walk_11
+  - first:
+      213: -2918674221814346822
+    second: Kide back walk_12
+  - first:
+      213: 7892957072780913836
+    second: Kide back walk_13
+  - first:
+      213: -5614102715879457186
+    second: Kide back walk_14
+  - first:
+      213: 5707987787925340577
+    second: Kide back walk_15
+  - first:
+      213: -1098284070771882831
+    second: Kide back walk_16
+  - first:
+      213: -380186494180280050
+    second: Kide back walk_17
+  - first:
+      213: 4413383122963530548
+    second: Kide back walk_18
+  - first:
+      213: -4775244687002683484
+    second: Kide back walk_19
+  - first:
+      213: 9152468545674623250
+    second: Kide back walk_20
+  - first:
+      213: 2749557803005269913
+    second: Kide back walk_21
+  - first:
+      213: 7705988097731935589
+    second: Kide back walk_22
+  - first:
+      213: -2848573621432614436
+    second: Kide back walk_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kide back walk_0
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2048
+        width: 227
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f736af770d6fac0800000000000000
+      internalID: -3821638020056776937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kide back walk_1
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 2053
+        width: 226
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b769c262b44425600800000000000000
+      internalID: 455501601871533691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kide back walk_2
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 2059
+        width: 225
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed272e1a4327dc6b0800000000000000
+      internalID: -5274434018201144610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kide back walk_3
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 2067
+        width: 223
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8dacfbe4efeb230800000000000000
+      internalID: 3656639561650067657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kide back walk_4
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 2074
+        width: 224
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0edf32195f103d0800000000000000
+      internalID: -3242040253007142690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kide back walk_5
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1558
+        width: 224
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97487ed7e1ee6da30800000000000000
+      internalID: 4239837913944654969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kide back walk_6
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1554
+        width: 224
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16aad11f95fcd260800000000000000
+      internalID: 7123838774141429277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kide back walk_7
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 1551
+        width: 224
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da9c238254a83560800000000000000
+      internalID: 7293760270821530326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kide back walk_8
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 1547
+        width: 225
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552e4dd47dffae7d0800000000000000
+      internalID: -2888214910815903147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kide back walk_9
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 1543
+        width: 225
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e1ab1b459a5aa50800000000000000
+      internalID: 6531813015794884230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kide back walk_10
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1028
+        width: 226
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1ed7ab0b56e6a20800000000000000
+      internalID: 3057493006748606962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kide back walk_11
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1024
+        width: 227
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ea9175fbaa58910800000000000000
+      internalID: 1839063761627491946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kide back walk_12
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1028
+        width: 227
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb8aa15249ce77d0800000000000000
+      internalID: -2918674221814346822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kide back walk_13
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 1033
+        width: 228
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac638693aa698d60800000000000000
+      internalID: 7892957072780913836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kide back walk_14
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 1040
+        width: 229
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ef27f1353b612b0800000000000000
+      internalID: -5614102715879457186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kide back walk_15
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 534
+        width: 229
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1ce81a6a8d63f40800000000000000
+      internalID: 5707987787925340577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kide back walk_16
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 537
+        width: 230
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b40c23e47c12c0f0800000000000000
+      internalID: -1098284070771882831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kide back walk_17
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 533
+        width: 230
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09bbf9d56e49baf0800000000000000
+      internalID: -380186494180280050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kide back walk_18
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 530
+        width: 230
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43302f5319c7f3d30800000000000000
+      internalID: 4413383122963530548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kide back walk_19
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 526
+        width: 229
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a732abe14ceabdb0800000000000000
+      internalID: -4775244687002683484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kide back walk_20
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 11
+        width: 229
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2193fd286a9140f70800000000000000
+      internalID: 9152468545674623250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kide back walk_21
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 7
+        width: 228
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99758890144682620800000000000000
+      internalID: 2749557803005269913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kide back walk_22
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 4
+        width: 227
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d33b8c85b21fa60800000000000000
+      internalID: 7705988097731935589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kide back walk_23
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 0
+        width: 227
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd106f93265d778d0800000000000000
+      internalID: -2848573621432614436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

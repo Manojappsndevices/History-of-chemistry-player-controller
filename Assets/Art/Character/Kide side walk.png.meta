@@ -1,0 +1,743 @@
+fileFormatVersion: 2
+guid: ef0b7f947dd59ae4b9574259436b2357
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4720545331441842812
+    second: Kide side walk_0
+  - first:
+      213: 7338400647045912464
+    second: Kide side walk_1
+  - first:
+      213: -992104685822780543
+    second: Kide side walk_2
+  - first:
+      213: 2191595604897335123
+    second: Kide side walk_3
+  - first:
+      213: 4551847058798537111
+    second: Kide side walk_4
+  - first:
+      213: 8498686401772991418
+    second: Kide side walk_5
+  - first:
+      213: -5505365299239606356
+    second: Kide side walk_6
+  - first:
+      213: 1061928219817735990
+    second: Kide side walk_7
+  - first:
+      213: -8498985741873790268
+    second: Kide side walk_8
+  - first:
+      213: 1807410553092281095
+    second: Kide side walk_9
+  - first:
+      213: 5788976333616614678
+    second: Kide side walk_10
+  - first:
+      213: -1808387481850436328
+    second: Kide side walk_11
+  - first:
+      213: 6694906489157303006
+    second: Kide side walk_12
+  - first:
+      213: 225423665373839486
+    second: Kide side walk_13
+  - first:
+      213: 4946891809590923633
+    second: Kide side walk_14
+  - first:
+      213: 5599277047730372732
+    second: Kide side walk_15
+  - first:
+      213: -3247301465933059820
+    second: Kide side walk_16
+  - first:
+      213: -3581332660468102407
+    second: Kide side walk_17
+  - first:
+      213: -7791270177868222160
+    second: Kide side walk_18
+  - first:
+      213: -2876827158057538029
+    second: Kide side walk_19
+  - first:
+      213: 809672372205489648
+    second: Kide side walk_20
+  - first:
+      213: -4378636065987793742
+    second: Kide side walk_21
+  - first:
+      213: -1117341954403515759
+    second: Kide side walk_22
+  - first:
+      213: 1402028853094116409
+    second: Kide side walk_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kide side walk_0
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 2065
+        width: 253
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485c74518014d7eb0800000000000000
+      internalID: -4720545331441842812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kide side walk_1
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 2064
+        width: 253
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0971baa028c37d560800000000000000
+      internalID: 7338400647045912464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kide side walk_2
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 2063
+        width: 254
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b588d6b065b32f0800000000000000
+      internalID: -992104685822780543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kide side walk_3
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 2063
+        width: 255
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3578631579c1a6e10800000000000000
+      internalID: 2191595604897335123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kide side walk_4
+      rect:
+        serializedVersion: 2
+        x: 2178
+        y: 2064
+        width: 255
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799e79388c86b2f30800000000000000
+      internalID: 4551847058798537111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kide side walk_5
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1553
+        width: 256
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab33f13214661f570800000000000000
+      internalID: 8498686401772991418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kide side walk_6
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1553
+        width: 256
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7af04dd630993b0800000000000000
+      internalID: -5505365299239606356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kide side walk_7
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1548
+        width: 255
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637f23fe61abcbe00800000000000000
+      internalID: 1061928219817735990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kide side walk_8
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 1544
+        width: 255
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2c0805f798d0a80800000000000000
+      internalID: -8498985741873790268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kide side walk_9
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 1549
+        width: 253
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7039b5c6256351910800000000000000
+      internalID: 1807410553092281095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kide side walk_10
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1041
+        width: 254
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d8c5add43965050800000000000000
+      internalID: 5788976333616614678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kide side walk_11
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1042
+        width: 253
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815aa00aa2157e6e0800000000000000
+      internalID: -1808387481850436328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kide side walk_12
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 1040
+        width: 253
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edabda21bf519ec50800000000000000
+      internalID: 6694906489157303006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kide side walk_13
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 1038
+        width: 254
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70039a11add02300800000000000000
+      internalID: 225423665373839486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kide side walk_14
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 1037
+        width: 254
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171d4fc14e3e6a440800000000000000
+      internalID: 4946891809590923633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kide side walk_15
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 526
+        width: 255
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7087f40fc0a4bd40800000000000000
+      internalID: 5599277047730372732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kide side walk_16
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 527
+        width: 256
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419647c85844fe2d0800000000000000
+      internalID: -3247301465933059820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kide side walk_17
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 528
+        width: 257
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa4b468bec8c4ec0800000000000000
+      internalID: -3581332660468102407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kide side walk_18
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 526
+        width: 256
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031f11b9d09dfd390800000000000000
+      internalID: -7791270177868222160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kide side walk_19
+      rect:
+        serializedVersion: 2
+        x: 2178
+        y: 525
+        width: 255
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ea8cb11f47318d0800000000000000
+      internalID: -2876827158057538029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kide side walk_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 11
+        width: 254
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd81c19bb88c3b00800000000000000
+      internalID: 809672372205489648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kide side walk_21
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 13
+        width: 254
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc651e62b5fb33c0800000000000000
+      internalID: -4378636065987793742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kide side walk_22
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 15
+        width: 254
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192432399676e70f0800000000000000
+      internalID: -1117341954403515759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kide side walk_23
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 17
+        width: 253
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ce58940d1057310800000000000000
+      internalID: 1402028853094116409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
