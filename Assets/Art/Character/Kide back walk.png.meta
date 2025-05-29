@@ -120,7 +120,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 512
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -198,10 +198,10 @@ TextureImporter:
       name: Kide back walk_0
       rect:
         serializedVersion: 2
-        x: 145
+        x: 0
         y: 2048
-        width: 227
-        height: 500
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -220,10 +220,10 @@ TextureImporter:
       name: Kide back walk_1
       rect:
         serializedVersion: 2
-        x: 656
-        y: 2053
-        width: 226
-        height: 491
+        x: 512
+        y: 2048
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -242,10 +242,10 @@ TextureImporter:
       name: Kide back walk_2
       rect:
         serializedVersion: 2
-        x: 1167
-        y: 2059
-        width: 225
-        height: 480
+        x: 1024
+        y: 2048
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -264,10 +264,10 @@ TextureImporter:
       name: Kide back walk_3
       rect:
         serializedVersion: 2
-        x: 1678
-        y: 2067
-        width: 223
-        height: 474
+        x: 1536
+        y: 2048
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -286,10 +286,10 @@ TextureImporter:
       name: Kide back walk_4
       rect:
         serializedVersion: 2
-        x: 2187
-        y: 2074
-        width: 224
-        height: 469
+        x: 2048
+        y: 2048
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -308,10 +308,10 @@ TextureImporter:
       name: Kide back walk_5
       rect:
         serializedVersion: 2
-        x: 137
-        y: 1558
-        width: 224
-        height: 474
+        x: 0
+        y: 1536
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -330,10 +330,10 @@ TextureImporter:
       name: Kide back walk_6
       rect:
         serializedVersion: 2
-        x: 651
-        y: 1554
-        width: 224
-        height: 482
+        x: 512
+        y: 1536
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -352,10 +352,10 @@ TextureImporter:
       name: Kide back walk_7
       rect:
         serializedVersion: 2
-        x: 1165
-        y: 1551
-        width: 224
-        height: 489
+        x: 1024
+        y: 1536
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -374,10 +374,10 @@ TextureImporter:
       name: Kide back walk_8
       rect:
         serializedVersion: 2
-        x: 1678
-        y: 1547
-        width: 225
-        height: 496
+        x: 1536
+        y: 1536
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -396,10 +396,10 @@ TextureImporter:
       name: Kide back walk_9
       rect:
         serializedVersion: 2
-        x: 2191
-        y: 1543
-        width: 225
-        height: 498
+        x: 2048
+        y: 1536
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -418,10 +418,10 @@ TextureImporter:
       name: Kide back walk_10
       rect:
         serializedVersion: 2
-        x: 144
-        y: 1028
-        width: 226
-        height: 499
+        x: 0
+        y: 1024
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -440,10 +440,10 @@ TextureImporter:
       name: Kide back walk_11
       rect:
         serializedVersion: 2
-        x: 657
+        x: 512
         y: 1024
-        width: 227
-        height: 500
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -462,10 +462,10 @@ TextureImporter:
       name: Kide back walk_12
       rect:
         serializedVersion: 2
-        x: 1170
-        y: 1028
-        width: 227
-        height: 494
+        x: 1024
+        y: 1024
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -484,10 +484,10 @@ TextureImporter:
       name: Kide back walk_13
       rect:
         serializedVersion: 2
-        x: 1682
-        y: 1033
-        width: 228
-        height: 487
+        x: 1536
+        y: 1024
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -506,10 +506,10 @@ TextureImporter:
       name: Kide back walk_14
       rect:
         serializedVersion: 2
-        x: 2195
-        y: 1040
-        width: 229
-        height: 477
+        x: 2048
+        y: 1024
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -528,10 +528,10 @@ TextureImporter:
       name: Kide back walk_15
       rect:
         serializedVersion: 2
-        x: 148
-        y: 534
-        width: 229
-        height: 474
+        x: 0
+        y: 512
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -550,10 +550,10 @@ TextureImporter:
       name: Kide back walk_16
       rect:
         serializedVersion: 2
-        x: 660
-        y: 537
-        width: 230
-        height: 474
+        x: 512
+        y: 512
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -572,10 +572,10 @@ TextureImporter:
       name: Kide back walk_17
       rect:
         serializedVersion: 2
-        x: 1173
-        y: 533
-        width: 230
-        height: 482
+        x: 1024
+        y: 512
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -594,10 +594,10 @@ TextureImporter:
       name: Kide back walk_18
       rect:
         serializedVersion: 2
-        x: 1684
-        y: 530
-        width: 230
-        height: 487
+        x: 1536
+        y: 512
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -616,10 +616,10 @@ TextureImporter:
       name: Kide back walk_19
       rect:
         serializedVersion: 2
-        x: 2196
-        y: 526
-        width: 229
-        height: 494
+        x: 2048
+        y: 512
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -638,10 +638,10 @@ TextureImporter:
       name: Kide back walk_20
       rect:
         serializedVersion: 2
-        x: 147
-        y: 11
-        width: 229
-        height: 499
+        x: 0
+        y: 0
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -660,10 +660,10 @@ TextureImporter:
       name: Kide back walk_21
       rect:
         serializedVersion: 2
-        x: 658
-        y: 7
-        width: 228
-        height: 500
+        x: 512
+        y: 0
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -682,10 +682,10 @@ TextureImporter:
       name: Kide back walk_22
       rect:
         serializedVersion: 2
-        x: 1170
-        y: 4
-        width: 227
-        height: 500
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -704,10 +704,10 @@ TextureImporter:
       name: Kide back walk_23
       rect:
         serializedVersion: 2
-        x: 1681
+        x: 1536
         y: 0
-        width: 227
-        height: 500
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -726,7 +726,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 0694cd8513fada4449098e77ed84fe7e
     internalID: 0
     vertices: []
     indices: 
@@ -735,7 +735,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Kide back walk_0: -3821638020056776937
+      Kide back walk_1: 455501601871533691
+      Kide back walk_10: 3057493006748606962
+      Kide back walk_11: 1839063761627491946
+      Kide back walk_12: -2918674221814346822
+      Kide back walk_13: 7892957072780913836
+      Kide back walk_14: -5614102715879457186
+      Kide back walk_15: 5707987787925340577
+      Kide back walk_16: -1098284070771882831
+      Kide back walk_17: -380186494180280050
+      Kide back walk_18: 4413383122963530548
+      Kide back walk_19: -4775244687002683484
+      Kide back walk_2: -5274434018201144610
+      Kide back walk_20: 9152468545674623250
+      Kide back walk_21: 2749557803005269913
+      Kide back walk_22: 7705988097731935589
+      Kide back walk_23: -2848573621432614436
+      Kide back walk_3: 3656639561650067657
+      Kide back walk_4: -3242040253007142690
+      Kide back walk_5: 4239837913944654969
+      Kide back walk_6: 7123838774141429277
+      Kide back walk_7: 7293760270821530326
+      Kide back walk_8: -2888214910815903147
+      Kide back walk_9: 6531813015794884230
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

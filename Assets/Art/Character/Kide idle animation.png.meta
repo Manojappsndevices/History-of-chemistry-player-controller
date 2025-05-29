@@ -120,7 +120,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 512
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -198,10 +198,10 @@ TextureImporter:
       name: Kide idle animation_0
       rect:
         serializedVersion: 2
-        x: 125
-        y: 2053
-        width: 241
-        height: 500
+        x: 0
+        y: 2048
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -220,10 +220,10 @@ TextureImporter:
       name: Kide idle animation_1
       rect:
         serializedVersion: 2
-        x: 637
-        y: 2053
-        width: 241
-        height: 499
+        x: 512
+        y: 2048
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -242,10 +242,10 @@ TextureImporter:
       name: Kide idle animation_2
       rect:
         serializedVersion: 2
-        x: 1149
-        y: 2053
-        width: 241
-        height: 498
+        x: 1024
+        y: 2048
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -264,10 +264,10 @@ TextureImporter:
       name: Kide idle animation_3
       rect:
         serializedVersion: 2
-        x: 1661
-        y: 2053
-        width: 241
-        height: 497
+        x: 1536
+        y: 2048
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -286,10 +286,10 @@ TextureImporter:
       name: Kide idle animation_4
       rect:
         serializedVersion: 2
-        x: 2173
-        y: 2053
-        width: 241
-        height: 496
+        x: 2048
+        y: 2048
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -308,10 +308,10 @@ TextureImporter:
       name: Kide idle animation_5
       rect:
         serializedVersion: 2
-        x: 125
-        y: 1541
-        width: 245
-        height: 495
+        x: 0
+        y: 1536
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -330,10 +330,10 @@ TextureImporter:
       name: Kide idle animation_6
       rect:
         serializedVersion: 2
-        x: 637
-        y: 1541
-        width: 248
-        height: 494
+        x: 512
+        y: 1536
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -352,10 +352,10 @@ TextureImporter:
       name: Kide idle animation_7
       rect:
         serializedVersion: 2
-        x: 1145
-        y: 1541
-        width: 255
-        height: 493
+        x: 1024
+        y: 1536
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -374,10 +374,10 @@ TextureImporter:
       name: Kide idle animation_8
       rect:
         serializedVersion: 2
-        x: 1655
-        y: 1541
-        width: 260
-        height: 492
+        x: 1536
+        y: 1536
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -396,10 +396,10 @@ TextureImporter:
       name: Kide idle animation_9
       rect:
         serializedVersion: 2
-        x: 2164
-        y: 1541
-        width: 266
-        height: 491
+        x: 2048
+        y: 1536
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -418,10 +418,10 @@ TextureImporter:
       name: Kide idle animation_10
       rect:
         serializedVersion: 2
-        x: 118
-        y: 1029
-        width: 261
-        height: 492
+        x: 0
+        y: 1024
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -440,10 +440,10 @@ TextureImporter:
       name: Kide idle animation_11
       rect:
         serializedVersion: 2
-        x: 633
-        y: 1029
-        width: 255
-        height: 493
+        x: 512
+        y: 1024
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -462,10 +462,10 @@ TextureImporter:
       name: Kide idle animation_12
       rect:
         serializedVersion: 2
-        x: 1147
-        y: 1029
-        width: 251
-        height: 494
+        x: 1024
+        y: 1024
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -484,10 +484,10 @@ TextureImporter:
       name: Kide idle animation_13
       rect:
         serializedVersion: 2
-        x: 1661
-        y: 1029
-        width: 246
-        height: 495
+        x: 1536
+        y: 1024
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -506,10 +506,10 @@ TextureImporter:
       name: Kide idle animation_14
       rect:
         serializedVersion: 2
-        x: 2173
-        y: 1029
-        width: 243
-        height: 496
+        x: 2048
+        y: 1024
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -528,10 +528,10 @@ TextureImporter:
       name: Kide idle animation_15
       rect:
         serializedVersion: 2
-        x: 125
-        y: 517
-        width: 241
-        height: 497
+        x: 0
+        y: 512
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -550,10 +550,10 @@ TextureImporter:
       name: Kide idle animation_16
       rect:
         serializedVersion: 2
-        x: 637
-        y: 517
-        width: 241
-        height: 498
+        x: 512
+        y: 512
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -572,10 +572,10 @@ TextureImporter:
       name: Kide idle animation_17
       rect:
         serializedVersion: 2
-        x: 1149
-        y: 517
-        width: 241
-        height: 499
+        x: 1024
+        y: 512
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -594,10 +594,10 @@ TextureImporter:
       name: Kide idle animation_18
       rect:
         serializedVersion: 2
-        x: 1661
-        y: 517
-        width: 241
-        height: 500
+        x: 1536
+        y: 512
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -616,10 +616,10 @@ TextureImporter:
       name: Kide idle animation_19
       rect:
         serializedVersion: 2
-        x: 2173
-        y: 517
-        width: 241
-        height: 500
+        x: 2048
+        y: 512
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -638,10 +638,10 @@ TextureImporter:
       name: Kide idle animation_20
       rect:
         serializedVersion: 2
-        x: 125
-        y: 5
-        width: 241
-        height: 500
+        x: 0
+        y: 0
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -660,10 +660,10 @@ TextureImporter:
       name: Kide idle animation_21
       rect:
         serializedVersion: 2
-        x: 637
-        y: 5
-        width: 241
-        height: 500
+        x: 512
+        y: 0
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -682,10 +682,10 @@ TextureImporter:
       name: Kide idle animation_22
       rect:
         serializedVersion: 2
-        x: 1149
-        y: 5
-        width: 241
-        height: 500
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -704,10 +704,10 @@ TextureImporter:
       name: Kide idle animation_23
       rect:
         serializedVersion: 2
-        x: 1661
-        y: 5
-        width: 241
-        height: 500
+        x: 1536
+        y: 0
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -726,7 +726,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: cb00042ed0471c34e923b87d9ea69d68
     internalID: 0
     vertices: []
     indices: 
@@ -735,7 +735,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Kide idle animation_0: -8566421807931998619
+      Kide idle animation_1: 4413743667320742427
+      Kide idle animation_10: 9162073298668796327
+      Kide idle animation_11: -1427706339798913577
+      Kide idle animation_12: -8724674587821231071
+      Kide idle animation_13: 3444456098458960772
+      Kide idle animation_14: 2951639874036593443
+      Kide idle animation_15: -130304559165351112
+      Kide idle animation_16: -3973587938443367979
+      Kide idle animation_17: -644554749715691263
+      Kide idle animation_18: -2644855101855770894
+      Kide idle animation_19: -2430061178844300989
+      Kide idle animation_2: -4054224429280405586
+      Kide idle animation_20: 3527273562141495776
+      Kide idle animation_21: 954044744135129406
+      Kide idle animation_22: -1105959484092172387
+      Kide idle animation_23: -452595227571727427
+      Kide idle animation_3: 5272103171335500928
+      Kide idle animation_4: 203750583393385084
+      Kide idle animation_5: 1785701393694643875
+      Kide idle animation_6: -7202685357698112433
+      Kide idle animation_7: 4392374327750693021
+      Kide idle animation_8: -6327502125563563040
+      Kide idle animation_9: 1820267528585131531
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

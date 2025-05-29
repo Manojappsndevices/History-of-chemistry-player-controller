@@ -120,7 +120,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 512
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -198,10 +198,10 @@ TextureImporter:
       name: Kide side walk_0
       rect:
         serializedVersion: 2
-        x: 121
-        y: 2065
-        width: 253
-        height: 485
+        x: 0
+        y: 2048
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -220,10 +220,10 @@ TextureImporter:
       name: Kide side walk_1
       rect:
         serializedVersion: 2
-        x: 635
-        y: 2064
-        width: 253
-        height: 482
+        x: 512
+        y: 2048
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -242,10 +242,10 @@ TextureImporter:
       name: Kide side walk_2
       rect:
         serializedVersion: 2
-        x: 1149
-        y: 2063
-        width: 254
-        height: 478
+        x: 1024
+        y: 2048
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -264,10 +264,10 @@ TextureImporter:
       name: Kide side walk_3
       rect:
         serializedVersion: 2
-        x: 1663
-        y: 2063
-        width: 255
-        height: 480
+        x: 1536
+        y: 2048
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -286,10 +286,10 @@ TextureImporter:
       name: Kide side walk_4
       rect:
         serializedVersion: 2
-        x: 2178
-        y: 2064
-        width: 255
-        height: 480
+        x: 2048
+        y: 2048
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -308,10 +308,10 @@ TextureImporter:
       name: Kide side walk_5
       rect:
         serializedVersion: 2
-        x: 132
-        y: 1553
-        width: 256
-        height: 481
+        x: 0
+        y: 1536
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -330,10 +330,10 @@ TextureImporter:
       name: Kide side walk_6
       rect:
         serializedVersion: 2
-        x: 642
-        y: 1553
-        width: 256
-        height: 484
+        x: 512
+        y: 1536
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -352,10 +352,10 @@ TextureImporter:
       name: Kide side walk_7
       rect:
         serializedVersion: 2
-        x: 1152
-        y: 1548
-        width: 255
-        height: 492
+        x: 1024
+        y: 1536
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -374,10 +374,10 @@ TextureImporter:
       name: Kide side walk_8
       rect:
         serializedVersion: 2
-        x: 1662
-        y: 1544
-        width: 255
-        height: 499
+        x: 1536
+        y: 1536
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -396,10 +396,10 @@ TextureImporter:
       name: Kide side walk_9
       rect:
         serializedVersion: 2
-        x: 2173
-        y: 1549
-        width: 253
-        height: 493
+        x: 2048
+        y: 1536
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -418,10 +418,10 @@ TextureImporter:
       name: Kide side walk_10
       rect:
         serializedVersion: 2
-        x: 122
-        y: 1041
-        width: 254
-        height: 487
+        x: 0
+        y: 1024
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -440,10 +440,10 @@ TextureImporter:
       name: Kide side walk_11
       rect:
         serializedVersion: 2
-        x: 633
-        y: 1042
-        width: 253
-        height: 484
+        x: 512
+        y: 1024
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -462,10 +462,10 @@ TextureImporter:
       name: Kide side walk_12
       rect:
         serializedVersion: 2
-        x: 1147
-        y: 1040
-        width: 253
-        height: 483
+        x: 1024
+        y: 1024
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -484,10 +484,10 @@ TextureImporter:
       name: Kide side walk_13
       rect:
         serializedVersion: 2
-        x: 1661
-        y: 1038
-        width: 254
-        height: 482
+        x: 1536
+        y: 1024
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -506,10 +506,10 @@ TextureImporter:
       name: Kide side walk_14
       rect:
         serializedVersion: 2
-        x: 2176
-        y: 1037
-        width: 254
-        height: 479
+        x: 2048
+        y: 1024
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -528,10 +528,10 @@ TextureImporter:
       name: Kide side walk_15
       rect:
         serializedVersion: 2
-        x: 130
-        y: 526
-        width: 255
-        height: 480
+        x: 0
+        y: 512
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -550,10 +550,10 @@ TextureImporter:
       name: Kide side walk_16
       rect:
         serializedVersion: 2
-        x: 644
-        y: 527
-        width: 256
-        height: 480
+        x: 512
+        y: 512
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -572,10 +572,10 @@ TextureImporter:
       name: Kide side walk_17
       rect:
         serializedVersion: 2
-        x: 1158
-        y: 528
-        width: 257
-        height: 480
+        x: 1024
+        y: 512
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -594,10 +594,10 @@ TextureImporter:
       name: Kide side walk_18
       rect:
         serializedVersion: 2
-        x: 1668
-        y: 526
-        width: 256
-        height: 486
+        x: 1536
+        y: 512
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -616,10 +616,10 @@ TextureImporter:
       name: Kide side walk_19
       rect:
         serializedVersion: 2
-        x: 2178
-        y: 525
-        width: 255
-        height: 490
+        x: 2048
+        y: 512
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -638,10 +638,10 @@ TextureImporter:
       name: Kide side walk_20
       rect:
         serializedVersion: 2
-        x: 128
-        y: 11
-        width: 254
-        height: 496
+        x: 0
+        y: 0
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -660,10 +660,10 @@ TextureImporter:
       name: Kide side walk_21
       rect:
         serializedVersion: 2
-        x: 637
-        y: 13
-        width: 254
-        height: 492
+        x: 512
+        y: 0
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -682,10 +682,10 @@ TextureImporter:
       name: Kide side walk_22
       rect:
         serializedVersion: 2
-        x: 1147
-        y: 15
-        width: 254
-        height: 489
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -704,10 +704,10 @@ TextureImporter:
       name: Kide side walk_23
       rect:
         serializedVersion: 2
-        x: 1657
-        y: 17
-        width: 253
-        height: 485
+        x: 1536
+        y: 0
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -726,7 +726,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: c02785a882c22e84095ddca0ab054e77
     internalID: 0
     vertices: []
     indices: 
@@ -735,7 +735,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Kide side walk_0: -4720545331441842812
+      Kide side walk_1: 7338400647045912464
+      Kide side walk_10: 5788976333616614678
+      Kide side walk_11: -1808387481850436328
+      Kide side walk_12: 6694906489157303006
+      Kide side walk_13: 225423665373839486
+      Kide side walk_14: 4946891809590923633
+      Kide side walk_15: 5599277047730372732
+      Kide side walk_16: -3247301465933059820
+      Kide side walk_17: -3581332660468102407
+      Kide side walk_18: -7791270177868222160
+      Kide side walk_19: -2876827158057538029
+      Kide side walk_2: -992104685822780543
+      Kide side walk_20: 809672372205489648
+      Kide side walk_21: -4378636065987793742
+      Kide side walk_22: -1117341954403515759
+      Kide side walk_23: 1402028853094116409
+      Kide side walk_3: 2191595604897335123
+      Kide side walk_4: 4551847058798537111
+      Kide side walk_5: 8498686401772991418
+      Kide side walk_6: -5505365299239606356
+      Kide side walk_7: 1061928219817735990
+      Kide side walk_8: -8498985741873790268
+      Kide side walk_9: 1807410553092281095
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
