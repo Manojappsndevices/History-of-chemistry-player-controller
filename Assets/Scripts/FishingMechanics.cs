@@ -9,6 +9,7 @@ public class FishingMechanics : MonoBehaviour
     public RectTransform greenZone;
     public Button startButton;
     public GameObject gameContainer; // Parent panel for the fishing game
+    [SerializeField] private GameObject joystickObject; // Assign your joystick GameObject here
 
     [Header("Settings")]
     public float baseSpeed = 200f;
@@ -25,6 +26,15 @@ public class FishingMechanics : MonoBehaviour
     {
         startButton.onClick.AddListener(StartFishing);
         InitializeGame();
+        if (joystickObject != null)
+            joystickObject.SetActive(false); // Disable joystick when fishing game is active
+    }
+
+
+    void OnDisable()
+    {
+        if (joystickObject != null)
+            joystickObject.SetActive(true); // Enable joystick when fishing game is not active
     }
 
     void InitializeGame()
@@ -36,6 +46,9 @@ public class FishingMechanics : MonoBehaviour
         isActive = false;
 
         startButton.gameObject.SetActive(true); // Reactivate start button
+
+        if (joystickObject != null)
+            joystickObject.SetActive(true); // Enable joystick when not fishing
 
         // Initial green zone position
         RandomizeGreenZonePosition();
@@ -71,6 +84,9 @@ public class FishingMechanics : MonoBehaviour
         ResetGame();
         isActive = true;
         startButton.gameObject.SetActive(false); // Hide start button once clicked
+
+        if (joystickObject != null)
+            joystickObject.SetActive(false); // Disable joystick during fishing
     }
 
     void ResetGame()
