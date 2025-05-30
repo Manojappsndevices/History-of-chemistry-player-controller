@@ -17,6 +17,12 @@ public class Joystick : MonoBehaviour, IPointerDownHandler, IDragHandler, IPoint
         handle.rectTransform.anchoredPosition = Vector2.zero;
     }
 
+    void OnEnable()
+    {
+        handle.rectTransform.anchoredPosition = Vector2.zero;
+        inputVector = Vector2.zero;
+    }
+
     public void OnPointerDown(PointerEventData eventData)
     {
         OnDrag(eventData);

@@ -22,6 +22,19 @@ public class Player_Controller : MonoBehaviour
 
     void Update()
     {
+        // If joystick is disabled, force Idle animation and return
+        if (!joystick.gameObject.activeInHierarchy)
+        {
+            if (currentDir != MoveDir.None)
+            {
+                animator.Play("Idle");
+                spriteRenderer.flipX = false;
+                currentDir = MoveDir.None;
+            }
+            rb.linearVelocity = Vector2.zero;
+            return;
+        }
+
         Vector2 input = joystick.GetInputDirection();
         rb.linearVelocity = input.normalized * moveSpeed;
 
